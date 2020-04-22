@@ -23,8 +23,6 @@ import pygame
 
 # define a main function
 def main():
-
-    # Hello World
     
     # initialize the pygame module
     pygame.init()
